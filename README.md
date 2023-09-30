@@ -1,2 +1,2 @@
 # Congruency
-> This is intended to improve the experience of the game through reorganisation of existing content. For miscellaneous content additions, see [Fluff](https://github.com/DarcyManoel/Fluff), also authored by me.
+> This is intended to improve the experience of the game through a reorganisation of the existing content. For content additions, see [Fluff](https://github.com/DarcyManoel/Fluff), also authored by me.
