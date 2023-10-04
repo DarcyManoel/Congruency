@@ -56,5 +56,3 @@ outfit "Tree Skeleton Key Stone"
 	category "Miscellaneous"
 outfit "Void Sprite Parts"
 	category "Miscellaneous"
-outfit "Shipwright Gear" #	Fluff
-	category "Miscellaneous"
